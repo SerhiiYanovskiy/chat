@@ -1,0 +1,11 @@
+Сервер
+
+
+pipenv run python chat/__main__.py
+
+
+Тестовый клиент
+
+
+
+pipenv run python client/client.py
